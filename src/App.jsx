@@ -752,12 +752,11 @@ function App() {
             <Bouquet className="bouquet-svg" />
             <h1>Happy Valentine&apos;s Day</h1>
             <p>
-              Gửi Na iu, a muốn dành tặng bó hoa nho nhỏ này cho e vì e 
-              đã đem lại cho a rất nhiều điều đặc biệt trong suốt thời gian qua.
+              Gửi Na iu, a muốn dành tặng bó hoa nho nhỏ này cho e vì những điều đặc biệt e đem đến cho a trong suốt thời gian qua.
+               Mong rằng sau này, dù có bận rộn đến đâu, chúng ta vẫn dành cho nhau sự ưu tiên và sự tử tế như những ngày đầu. Mong rằng ngày này năm sau, chúng ta sẽ đón valentine cùng nhauuu.
               <br />
-              Mong rằng sau này, dù có bận rộn đến đâu, chúng ta vẫn dành cho nhau sự ưu tiên và sự tử tế như những ngày đầu. Mong rằng ngày này năm sau, chúng ta sẽ đón valentine cùng nhau nhaaaa
             </p>
-            <p>Yêu em nhiều lắm luôn áaaaaaaaa</p>
+            <p>Yêu em nhiều lắm luôn á bé iu của a hehehe.</p>
           </motion.div>
         )}
       </AnimatePresence>
